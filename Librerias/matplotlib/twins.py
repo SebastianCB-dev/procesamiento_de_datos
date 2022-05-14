@@ -20,3 +20,6 @@ ax.set_title("Goles vs Asistencias Chelsea F.C.")
 ax2 = ax.twinx()
 ax2.plot(jugador, asistencias, "b", label="asistencias")
 ax2.set_ylabel("Asistencias", color="blue")
+
+
+
